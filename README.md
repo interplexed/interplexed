@@ -11,7 +11,7 @@ Versed in
 🟫 SQL
 ⬜ Docker
 ⬛ Security
-🟧 TCP/IP
+🟧 Networking
 ...and more
 
 ### About
