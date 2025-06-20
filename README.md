@@ -1,6 +1,7 @@
 ## Hi, I'm Lewis
 
-**Status:** 🚀 *Hireable! Full Stack Web Developer*
+### Full Stack Web Development
+**Status:** 🚀 *Hireable*
 
 Versed in
 🟥 HTML
