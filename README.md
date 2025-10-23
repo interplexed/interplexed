@@ -1,9 +1,9 @@
 ## Hi, I'm Lewis
 
-### Full Stack Web Development
+### Full Stack Web Development  
 **Status:** 🚀 *Hireable*
 
-Versed in
+Versed in  
 🟥 HTML  
 🟦 CSS  
 🟨 JavaScript  
