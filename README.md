@@ -16,7 +16,7 @@ Versed in
 ... and more  
 
 ### About
-⭐ I fell into coding around 2013, firstly to make a Raspberry Pi run my greenhouse.
+I fell into coding around 2013, firstly to make a Raspberry Pi run my greenhouse.
 After that I discovered Flask-SQLAlchemy.  
 
 Then I was stuck not knowing how to properly host and secure my systems!  
@@ -29,4 +29,4 @@ My time is spent learning best practices, checking and testing different stuff, 
 
 Of course, it could be better spent with *more* testing, *more* uploading to GitHub, and *more* social networking!
 
-Thanks for looking, reach out via my [website](https://lewiscooper.dev)!
+⭐ Thanks for looking, reach out via my [website](https://lewiscooper.dev)!
