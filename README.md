@@ -11,8 +11,8 @@ Versed in
 🟪 PHP  
 🟫 SQL  
 ⬜ Docker  
-⬛ Security  
 🟧 Networking  
+⬛ Security  
 ... and more  
 
 ### About
