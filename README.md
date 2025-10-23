@@ -4,16 +4,16 @@
 **Status:** 🚀 *Hireable*
 
 Versed in
-🟥 HTML
-🟦 CSS
-🟨 JavaScript
-🟩 Python
-🟪 PHP
-🟫 SQL
-⬜ Docker
-⬛ Security
-🟧 Networking
-... and more
+🟥 HTML  
+🟦 CSS  
+🟨 JavaScript  
+🟩 Python  
+🟪 PHP  
+🟫 SQL  
+⬜ Docker  
+⬛ Security  
+🟧 Networking  
+... and more  
 
 ### About
 ⭐ I fell into coding around 2013, firstly to make a Raspberry Pi run my greenhouse.
@@ -29,4 +29,4 @@ My time is spent learning best practices, checking and testing different stuff, 
 
 Of course, it could be better spent with *more* testing, *more* uploading to GitHub, and *more* social networking!
 
-💜 Thanks for looking, reach out via my [website](https://lewiscooper.dev)!
+Thanks for looking, reach out via my [website](https://lewiscooper.dev)!
